@@ -8,7 +8,7 @@ const typography = new Typography({
 		},
 		{
 			name: 'Open Sans',
-			style: ['400'],
+			style: ['400', '600'],
 		},
 	],
 	headerFontFamily: ['Nunito', 'Helvetica', 'sans-serif'],
